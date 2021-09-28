@@ -5,8 +5,8 @@ My GitHub: https://github.com/CColdFox
 Usage:
 
 1. Downloading
-    >> git clone https://github.com/CColdFox/AANG/new/main
-    >> pip install -r requirements.txt
+    |- git clone https://github.com/CColdFox/AANG/new/main
+    |- pip install -r requirements.txt
     
 2. Starting
         - Enter your proxies in config/proxies.txt
