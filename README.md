@@ -6,7 +6,7 @@ Usage:
 
 1. Downloading
 
->git clone https://github.com/CColdFox/AANG/new/main
+>git clone https://github.com/CColdFox/AANG.git
 
 >pip install -r requirements.txt
 
