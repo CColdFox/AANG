@@ -1,6 +1,10 @@
 # AANG
-AANG - And Another Nitro Generator /// This program is a Discord Nitro Generator and Checker. It's pretty slow so good luck with that.
+AANG - And Another Nitro Generator
+
+This program is a Discord Nitro Generator and Checker. It's pretty slow so good luck with that.
+
 My GitHub: https://github.com/CColdFox
+
 
 Usage:
 
